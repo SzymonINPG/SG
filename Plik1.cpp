@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std; halko
+#include <iostream>/////xd
+using namespace std;
 
 int main()
 {
