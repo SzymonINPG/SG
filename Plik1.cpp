@@ -1,10 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include <iostream>/////xd
 using namespace std;
 =======
 #include <iostream>
 using namespace std; halko
 >>>>>>> 4d02a1509924e3d747b0f4c640fcea1819d3b939
+=======
+#include <iostream>/////xd
+using namespace std;
+>>>>>>> remotes/origin/NowyBranch
 
 int main()
 {
